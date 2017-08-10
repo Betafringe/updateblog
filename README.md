@@ -7,6 +7,6 @@
 
 #### 究极目标 M$!
 
-#### 日志更新在 LOG.md 中, 会把每天的代码同步至 code. 中
+#### 日志更新在 log.md 中, 会把每天的代码同步至 .code 中
 
 @author Betafringe alias as _Kucha
